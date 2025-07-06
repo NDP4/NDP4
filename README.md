@@ -50,7 +50,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,androidstudio,html,css,nodejs,postgres,linux,bash,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,androidstudio,html,css,nodejs,postgres,linux,bash,python,git,vscode" height="40" />
 </p>
 
 <br/>
@@ -58,12 +58,12 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="120" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=radical" height="120" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDP4&layout=compact&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDP4&layout=compact&theme=radical" height="90" />
 </p>
 
 <br/>
