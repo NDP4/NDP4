@@ -1,7 +1,7 @@
 <!-- Profile README for Nur Dwi Priyambodo -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nur+Dwi+Priyambodo;Web+%26+Mobile+Developer;LLinux+User+%7C+Cyber+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nur+Dwi+Priyambodo;Web+%26+Mobile+Developer;Linux+User+%7C+Cyber+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,androidstudio,html,css,nodejs,postgres,linux,bash,python,git,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,androidstudio,html,css,nodejs,postgres,linux,bash,python,git,vscode" height="20" />
 </p>
 
 <br/>
@@ -58,12 +58,12 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="80" />
   <span>&nbsp;&nbsp;</span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=radical" height="120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=radical" height="80" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDP4&layout=compact&theme=radical" height="90" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDP4&layout=compact&theme=radical" height="60" />
 </p>
 
 <br/>
