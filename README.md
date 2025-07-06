@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Profile README for Nur Dwi Priyambodo -->
 
-<!--
-**NDP4/NDP4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nur+Dwi+Priyambodo;Web+%26+Mobile+Developer;Linux+User+%7C+Cyber+Security+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <b>Web & Mobile Developer | Linux User | Cyber Security Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Developer-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Mobile-Developer-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Linux-User-yellow?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge&logo=hackthebox" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,androidstudio,html,css,nodejs,express,mongodb,postgres,linux,bash,python,git,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyambodo&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyambodo&theme=radical" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyambodo&layout=compact&theme=radical" height="120" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/priyambodo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nurdwipri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/priyambodo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyambodo&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+<!-- Feel free to customize username, social links, and widgets as needed -->
