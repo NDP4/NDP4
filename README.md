@@ -34,11 +34,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyambodo&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyambodo&theme=radical" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyambodo&layout=compact&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDP4&layout=compact&theme=radical" height="120" />
 </p>
 
 ---
