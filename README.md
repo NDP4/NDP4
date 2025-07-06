@@ -23,6 +23,24 @@
 
 ---
 
+### 👋 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
+</p>
+
+<p align="center">
+  🎓 Informatics Engineering student at <b>Dian Nuswantoro University</b> <br/>
+  💻 Passionate about <b>Web & Mobile App Development</b> <br/>
+  🐧 Linux & Docker enthusiast | 🛡️ Cybersecurity certified <br/>
+  👟 Owner: <b>Shoe What Sneakers</b> (reseller) & <b>Shoe What</b> (shoe care) <br/>
+  🏢 Experience at <b>RNC Contractor</b> <br/>
+  🧠 Ex-Psychology student at Diponegoro University <br/>
+  🚀 Always learning, open to collaboration & new challenges!
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
