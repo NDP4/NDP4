@@ -1,115 +1,94 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nur+Dwi+Priyambodo;AI+Systems+Engineer;AI+Automation+%7C+LLM+Integration+%7C+ML+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3BAFDA&center=true&vCenter=true&width=750&lines=Nur+Dwi+Priyambodo;AI+Systems+Engineer;Automation+Architect+%7C+LLM+Integration+%7C+Applied+ML" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Nur Dwi Priyambodo
-
-### 🚀 AI Systems Engineer | Automation Architect | Applied ML Researcher
-
-I design and build **AI-powered systems** that help digital businesses eliminate 10–40 hours of manual work per week —  
-without replacing their existing tools.
-
-At the same time, I explore and develop **machine learning models** for real-world applications.
-
----
-
-## 🎯 My Core Focus
-
-🔹 AI Workflow Automation (n8n, Make, LangChain)  
-🔹 LLM Integration (OpenAI API, RAG Systems, AI Agents)  
-🔹 Applied Machine Learning (Model building & experimentation)  
-🔹 AI-powered Web Applications  
-🔹 Automation for Digital Businesses & Creators  
-
----
-
-## 🛠 AI & Engineering Stack
-
-### 🤖 AI / ML
-- Python
-- Scikit-learn
-- TensorFlow / PyTorch (learning & experimentation)
-- OpenAI API
-- LangChain
-- RAG Architecture
-- Vector Databases (Supabase / PostgreSQL)
-
-### 🔄 Automation
-- n8n
-- Make (Integromat)
-- Webhooks
-- REST APIs
-- Stripe API
-
-### 🌐 Backend
-- Node.js
-- FastAPI
-- Express
-- PostgreSQL
-- Supabase
-
-### 🎨 Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Flutter (Mobile)
-
-### 🐧 System & Infra
-- Arch Linux
-- Docker
-- Git
-- Vercel / Railway
-
----
-
-## 🧠 What I Build
-
-✅ AI Customer Support Engines (RAG-based bots)  
-✅ Business Process Automation Systems  
-✅ AI Workflow Templates for n8n  
-✅ Custom AI Integrations  
-✅ Experimental ML Models  
-✅ AI-powered SaaS Tools  
-
----
-
-## 📌 Featured Projects (AI-Focused)
-
-| Project | Focus | Impact |
-|----------|--------|--------|
-| AI Customer Support Engine | RAG + Automation | Reduce CS workload up to 70% |
-| Business Ops Automation Suite | n8n Workflows | Save 20+ hrs/week |
-| n8n AI Workflow Templates | Open Source | AI automation for global community |
-| OptiFlow (AI Audit Tool) | AI + SaaS | Automation opportunity analyzer |
-| ML Experiments Lab | Model Research | Experimental ML & predictive models |
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">👋 Hi, I'm Nur Dwi Priyambodo</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=radical" height="150" />
+  <b>AI Systems Engineer • Automation Architect • Applied Machine Learning</b>
+</p>
+
+<p align="center">
+I design and build <b>AI-powered systems</b> that help digital businesses eliminate  
+<b>10–40 hours of manual work per week</b> — without replacing their existing tools.
+<br/><br/>
+I also research and develop <b>machine learning models</b> for real-world applications.
 </p>
 
 ---
 
-## 🌍 Let's Build AI Systems
+## 🎯 Core Expertise
 
-I'm open to:
-
-- AI Automation Projects
-- Workflow Consulting
-- AI Integration for SaaS
-- Machine Learning Collaboration
-- Research & Applied AI Projects
-
-📧 Email: your-email  
-💼 LinkedIn: your-linkedin  
-🌐 Portfolio: your-portfolio  
+- AI Workflow Automation (n8n, Make)
+- LLM Integration (OpenAI API, LangChain, RAG Systems)
+- AI Agents & Intelligent Pipelines
+- Applied Machine Learning & Model Experimentation
+- AI-powered SaaS Architecture
 
 ---
 
-> "Automation is the bridge. Intelligence is the leverage."
+## 🛠 Technology Stack
+
+### 🤖 AI / Machine Learning
+`Python` • `Scikit-learn` • `TensorFlow` • `PyTorch`  
+`OpenAI API` • `LangChain` • `RAG Architecture`  
+`Vector Database (Supabase / PostgreSQL)`
+
+### 🔄 Automation & Integration
+`n8n` • `Make (Integromat)` • `Webhooks`  
+`REST APIs` • `Stripe API`
+
+### 🌐 Backend Engineering
+`Node.js` • `FastAPI` • `Express`  
+`PostgreSQL` • `Supabase`
+
+### 🎨 Frontend & Application Layer
+`React` • `Next.js` • `Tailwind CSS` • `Flutter`
+
+### 🐧 Systems & Infrastructure
+`Arch Linux` • `Docker` • `Git` • `Vercel` • `Railway`
+
+---
+
+## 🧠 Selected Work
+
+| Project | Description | Outcome |
+|----------|-------------|----------|
+| **AI Customer Support Engine** | RAG-based support automation system | ↓ 70% repetitive workload |
+| **Business Ops Automation Suite** | End-to-end n8n workflow automation | 20+ hrs/week saved |
+| **n8n AI Workflow Templates** | Open-source AI automation templates | Global community usage |
+| **OptiFlow** | AI Automation Audit SaaS | Automation opportunity analyzer |
+| **ML Experiments Lab** | Applied ML research & experimentation | Predictive & analytical models |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NDP4&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDP4&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://ndwip.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://id.linkedin.com/in/nur-dwi-priyambodo-61a336221">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nurdwipriyambodo@proton.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automation is the bridge. Intelligence is the leverage."</i>
+</p>
