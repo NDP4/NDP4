@@ -1,68 +1,84 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Nur Dwi Priyambodo",
+    "username": "NDP4",
+    "headline": "AI Automation Developer | Agentic AI",
+    "affiliation": "Universitas Dian Nuswantoro",
+    "location": "Semarang, Indonesia",
+    "status": "Automating / Building / Researching",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I design agentic AI systems and workflow automation with Claude Code, n8n, and LangChain, removing 10-40 hours of manual work per week for digital businesses.",
+      "My work is backed by hands-on research: first author of a published edge AI computer vision paper and an IEEE YESIST12 2026 grand finalist, selected from 2,000+ submissions."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Agentic AI & Automation",
+    "direction": "Reliable automation systems",
+    "themes": "Tool-use agents / RAG & chatbots / workflows",
+    "narrative": "I focus on turning AI capabilities into dependable automation: agents that observe state, use tools, evaluate their own output, and hand off cleanly to the people who own the process."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Agentic AI Development",
+      "description": "Claude Code, OpenCode, AI pair-programming, and multi-step task automation."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Workflow Automation",
+      "description": "n8n and LangChain pipelines that connect business tools end-to-end and remove repetitive work."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "ML & Computer Vision",
+      "description": "Model optimization (pruning & quantization) with MobileNetV2 for edge AI deployment."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Rice Leaf Edge AI",
+      "url": "https://github.com/NDP4/rice-leaf-disease-edge-ai",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "focus": "Edge AI for rice leaf disease",
+      "summary": "Project is positioned for practical agricultural AI use: lightweight, explainable, and ready for mobile or low-resource deployment.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "TinyML IDS Bench",
+      "url": "https://github.com/NDP4/tinyml-ids-benchmark",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
+      "focus": "Microcontroller IDS benchmarking",
+      "summary": "Reproducible benchmark suite for intrusion detection on resource-constrained microcontrollers using DT, RF, KNN, DNN, and CNN.",
       "heroLabel": "Active system"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "n8n",
+    "LangChain",
+    "Claude Code",
+    "Next.js",
+    "Supabase",
+    "Flutter"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "NDP4",
+      "url": "https://github.com/NDP4",
       "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "nurdwipriyambodo",
+      "url": "https://linkedin.com/in/nurdwipriyambodo",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Portfolio",
+      "value": "ndwipvercel.app",
+      "url": "https://ndwipvercel.app",
+      "logo": "link",
       "color": "0B1220"
     }
   ],
@@ -73,5 +89,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Automating what matters, shipping what works."
 }
