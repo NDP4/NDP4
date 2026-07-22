@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/NDP4"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-NDP4-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/nurdwipriyambodo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nurdwipriyambodo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://ndwipvercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ndwipvercel.app-0B1220?style=for-the-badge&logo=link&logoColor=white"></a>
+  <a href="https://ndwip.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ndwip.vercel.app-0B1220?style=for-the-badge&logo=link&logoColor=white"></a>
 </p>
 
 ## About Me
