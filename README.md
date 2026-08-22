@@ -47,8 +47,7 @@ I focus on turning AI capabilities into dependable automation: agents that obser
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Jul 22, 2026: pushed 1 commit to [NDP4/NDP4](https://github.com/NDP4/NDP4).
-- Jul 22, 2026: created a branch in [NDP4/NDP4](https://github.com/NDP4/NDP4).
+_No recent public activity was found._
 <!-- AUTO:ACTIVITY:END -->
 
 ---
