@@ -47,6 +47,7 @@ I focus on turning AI capabilities into dependable automation: agents that obser
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 10, 2026: created a branch in [NDP4/gpu-switcher-linux](https://github.com/NDP4/gpu-switcher-linux).
 - Sep 7, 2026: pushed 1 commit to [NDP4/gods-eye-view](https://github.com/NDP4/gods-eye-view).
 <!-- AUTO:ACTIVITY:END -->
 
