@@ -34,7 +34,7 @@ My work is backed by hands-on research: first author of a published edge AI comp
 | --- | --- | --- |
 | [**MediSense PWA**](https://github.com/NDP4/medisense-pwa) | AI healthcare triage PWA | AI-powered medical triage platform for remote regions, running 100% offline via TensorFlow.js on entry-level smartphones. |
 | [**Rice Leaf Edge AI**](https://github.com/NDP4/rice-leaf-disease-edge-ai) | Edge AI for rice leaf disease | Optimized MobileNetV2 for low-resource edge deployment via channel pruning and PTQ, published in SKANIKA. |
-| [**CompanyLock Enterprise**](https://github.com/NDP4/CompanyLock) | Workstation security & access control | Centralized security platform featuring real-time monitoring via SignalR, time-based access control, and web-based management. |
+| [**CompanyLock**](https://github.com/NDP4/CompanyLock) | Workstation security & access control | Centralized security platform featuring real-time monitoring via SignalR, time-based access control, and web-based management. |
 
 ## Research Direction
 
