@@ -34,20 +34,28 @@
   ],
   "projects": [
     {
+      "name": "MediSense PWA",
+      "url": "https://github.com/NDP4/medisense-pwa",
+      "homepage": "",
+      "focus": "AI healthcare triage PWA",
+      "summary": "AI-powered medical triage platform for remote regions, running 100% offline via TensorFlow.js on entry-level smartphones.",
+      "heroLabel": "YESIST12 Finalist"
+    },
+    {
       "name": "Rice Leaf Edge AI",
       "url": "https://github.com/NDP4/rice-leaf-disease-edge-ai",
       "homepage": "",
       "focus": "Edge AI for rice leaf disease",
-      "summary": "Project is positioned for practical agricultural AI use: lightweight, explainable, and ready for mobile or low-resource deployment.",
-      "heroLabel": "Primary build"
+      "summary": "Optimized MobileNetV2 for low-resource edge deployment via channel pruning and PTQ, published in SKANIKA.",
+      "heroLabel": "Published Paper"
     },
     {
-      "name": "TinyML IDS Bench",
-      "url": "https://github.com/NDP4/tinyml-ids-benchmark",
+      "name": "CompanyLock Enterprise",
+      "url": "https://github.com/NDP4/CompanyLock",
       "homepage": "",
-      "focus": "Microcontroller IDS benchmarking",
-      "summary": "Reproducible benchmark suite for intrusion detection on resource-constrained microcontrollers using DT, RF, KNN, DNN, and CNN.",
-      "heroLabel": "Active system"
+      "focus": "Workstation security & access control",
+      "summary": "Centralized security platform featuring real-time monitoring via SignalR, time-based access control, and web-based management.",
+      "heroLabel": "Enterprise Build"
     }
   ],
   "techStack": [
