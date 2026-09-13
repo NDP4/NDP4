@@ -47,6 +47,8 @@ I focus on turning AI capabilities into dependable automation: agents that obser
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 12, 2026: pushed 1 commit to [NDP4/NDP4](https://github.com/NDP4/NDP4).
+- Sep 12, 2026: pushed 1 commit to [NDP4/rice-leaf-disease-edge-ai](https://github.com/NDP4/rice-leaf-disease-edge-ai).
 - Sep 10, 2026: created a branch in [NDP4/gpu-switcher-linux](https://github.com/NDP4/gpu-switcher-linux).
 - Sep 7, 2026: pushed 1 commit to [NDP4/gods-eye-view](https://github.com/NDP4/gods-eye-view).
 <!-- AUTO:ACTIVITY:END -->
